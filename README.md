@@ -1,3 +1,3 @@
 # Estética
 
-Site para uma estética. Exercício para manipulação de Bootstrap.
+Site para uma estética. Exercício com manipulação de Bootstrap.
